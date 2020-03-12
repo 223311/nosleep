@@ -2,6 +2,8 @@
 Version 1.0-RELEASE
 
 don't hover mouse in few second,make it auto.
+you can download nosleep.exe or download jar(if you have in enterprise n/w) file.
+Thanks to creator who has created exe file.
 
 ### feature
 			v1.0 :
