@@ -5,7 +5,7 @@ don't hover mouse in few second,make it auto.
 you can download nosleep.exe or download jar(if you have in enterprise n/w) file.
 Thanks to creator who has created exe file.
 
-Both files are safe to use even in highly protected system.
+Both files are safe to use even in highly protected system and doesnot required any type instllation ,it's just plug and play.
 
 ### feature
 			v1.0 :
