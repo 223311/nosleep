@@ -5,6 +5,8 @@ don't hover mouse in few second,make it auto.
 you can download nosleep.exe or download jar(if you have in enterprise n/w) file.
 Thanks to creator who has created exe file.
 
+Both files are safe to use even in highly protected system.
+
 ### feature
 			v1.0 :
 					1. never go to sleep mode
