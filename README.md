@@ -1,7 +1,7 @@
 **Designed By $@nk@R**
-
-
 Version 1.0-RELEASE
+
+don't hover mouse in few second,make it auto.
 
 ### feature
 			v1.0 :
