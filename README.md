@@ -17,7 +17,7 @@ Both files are safe to use even in highly protected enviroment and doesnot requi
 				1. must install java befor running the application.(version 1.6 or above)
 				2. download sr@.jar into your system.
 				3.open terminal in download location and type below.
-				      ```java -jar sr@jar`
+				      ```java -jar ns@jar`
 					  
 
 Exe file: doesnot required any installation.just double click on exe file.it will automatically start and minimize into tray.Right click on tray icon and press close to exit the application.
