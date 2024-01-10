@@ -3,9 +3,9 @@ Version 1.0-RELEASE
 
 don't move mouse in few second,make it auto.
 you can download nosleep.exe or download jar(if you have in enterprise n/w) file.
-Thanks to creator who has created exe file.
+it will also support new team application
 
-Both files are safe to use even in highly protected enviroment and doesnot required any type instllation ,it's just plug and play.
+Both files are safe to use even in highly protected enviroment and doesnot required any type instllation ,it's just plug and play. and it will never connect to internet.
 
 ### feature
 			v1.0 :
