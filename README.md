@@ -9,7 +9,7 @@ Both files are safe to use even in highly protected enviroment and doesnot requi
 
 ### feature
 			v1.0 :
-					1. never go to sleep mode
+					1. system and chat application like skype/team will alaways shows status as available.
 					2.never change your skype(business edition) status to inactive/away mode (alaways available/busy/.. mode).
 					3.and may more..
 
@@ -20,7 +20,7 @@ Both files are safe to use even in highly protected enviroment and doesnot requi
 				      ```java -jar ns@jar`
 					  
 
-Exe file: doesnot required any installation.just double click on exe file.it will automatically start and minimize into tray.Right click on tray icon and press close to exit the application.
+Exe file: doesnot required any installation.just double click on exe file.it will automatically start and minimize into system tray.Right click on tray icon and press close to exit the application.
 
 If you’re interested more in technical stuff,Follow me on
 Twitter : shankar223311 
